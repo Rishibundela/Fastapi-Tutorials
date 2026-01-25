@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+myenv/
+env/
+
+# OS / VS Code
+#.DS_Store
+#.vscode/
